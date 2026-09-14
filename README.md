@@ -26,7 +26,7 @@ DOGORA ($DOGA) is a community-driven meme coin built on **BNB Smart Chain**.
 - 🌐 Website: https://dogora.xyz
 - 📢 Telegram Channel: https://t.me/dogorachannel
 - 💬 Telegram Community: https://t.me/dogoracoin
-- 𝕏 X / Twitter: https://x.com/dogoracoin
+- 𝕏 / Twitter: https://x.com/dogoracoin
 - 🔎 BscScan: https://bscscan.com/token/0x8583997595A0b4966a5e80Be8001568e33C0f65A
 
 ## 🔐 Contract
